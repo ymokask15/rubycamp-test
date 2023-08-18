@@ -1,3 +1,3 @@
 puts "Hello World"
 puts "ハローワールド"
-puts "メアド変更したテス"
+puts "メアド変更したテ"
